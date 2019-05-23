@@ -30,6 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['samjegpracticedjango.pythonanywhere.com',]
 
+
 # Application definition
 
 INSTALLED_APPS = [
