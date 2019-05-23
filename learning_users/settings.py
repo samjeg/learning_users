@@ -28,7 +28,7 @@ SECRET_KEY = 'p&()j8$54#31a7tj@%h3#xrtg7g3euaopl&$cl&9#ievt^l7%t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://samjegpracticedjango.pythonanywhere.com',]
+ALLOWED_HOSTS = ['samjegpracticedjango.pythonanywhere.com',]
 
 
 # Application definition
